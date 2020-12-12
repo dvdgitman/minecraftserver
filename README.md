@@ -1,2 +1,2 @@
-# mc-server
+Minecraft image server for you! 
  
